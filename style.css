@@ -1,0 +1,46 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+
+body{
+    background-image: url('images/photo_2022-09-15_14-09-52.jpg');
+    background-size: cover;
+}
+.container{
+   
+    color: bisque;
+    margin-left: 33%;
+    width: 500px;
+   
+    /* text-align: center; */
+}
+h1{
+    margin: 0 auto;
+}
+article{
+    background-color: aliceblue;
+    color: black;
+    
+    padding: 4px;
+    margin-bottom: 30px;
+    border-radius: 31px;
+    /* width: 475px; */
+
+}
+code{
+    color: deepskyblue;
+}
+section{
+    margin-left: 18px;
+}
+a{
+padding: 10px;
+    text-decoration: none;
+    color: black;
+    display: block;
+}
+button{
+    margin-top: 21px;
+}

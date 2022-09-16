@@ -1,0 +1,28 @@
+body{
+    background-color: #dde8e8;
+}
+div{
+    width: 400px;
+    height: 400px;
+    background-color: #EEEEEE;
+    display: inline-block;
+    /* margin-left: 36px; */
+    margin:0 0 36px 10px;
+}
+#shape1{
+    background-repeat: no-repeat;
+    background-image: url("css-assignment-5-8.png");
+    /* width:200px; */
+}
+#shape2{
+    background-repeat: repeat-y;
+    background-image: url("css-assignment-5-8.png");    /* width:200px; */
+}
+#shape3{
+    background-repeat: repeat-x;
+    background-image: url("css-assignment-5-8.png");    /* width:200px; */
+}
+#shape4{
+    background-repeat: repeat;
+    background-image: url("css-assignment-5-8.png");    /* width:200px; */
+}
